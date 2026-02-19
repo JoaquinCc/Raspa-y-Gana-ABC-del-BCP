@@ -255,9 +255,9 @@ img{
 }
 
 .step-card__icon{
-  width: 36px;
-  height: 36px;
-  margin-bottom: 12px;
+  width: 34px;
+  height: 34px;
+  margin-bottom: 14px;
   display: block;
 
   /* color del icono */
@@ -274,8 +274,8 @@ img{
 }
 @media (min-width: 769px){
   .step-card__icon{
-    width: 40px;
-    height: 40px;
+    width: 48px;
+    height: 48px;
     margin-bottom: 18px;
   }
 }
